@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'BlackCastleMF';
+    src: url("Blackcastlemf-BG5n.ttf");
+}
+
+.root{
+    -fx-background-color: rgb(216, 216, 216);
+}
+
+#playBtn{
+    -fx-font-family: "BlackCastleMF";
+    -fx-font-size: 22px;
+}
+
+#resetBtn{
+    -fx-font-family: "BlackCastleMF";
+    -fx-font-size: 22px;
+}
+
+#label{
+    -fx-font-family: "BlackCastleMF";
+    -fx-font-size: 32px;
+}
+
+#gameBoard{
+    -fx-background-color: rgb(179, 179, 179);
+}

@@ -19,7 +19,7 @@
          <font>
             <Font name="BlackCastleMF" size="22.0" />
          </font></Button>
-      <Label fx:id="label" layoutX="354.0" layoutY="14.0" text="Head Size">
+      <Label fx:id="label" alignment="CENTER" layoutX="343.0" layoutY="7.0" text="Head Size" textAlignment="CENTER">
          <font>
             <Font name="BlackCastleMF" size="26.0" />
          </font>

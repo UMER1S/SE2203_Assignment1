@@ -1,5 +1,12 @@
 package se2203.assignment1;
 
+/*
+Piotr Nowak
+04-Feb-2022
+SE2203-Asn1
+pnowak5@uwo.ca
+*/
+
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.geometry.Pos;
